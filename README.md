@@ -9,7 +9,7 @@
 ##### 1.5 선형회귀
 ###### 1.6 Github
 
-2.2 BlockQuote
+2.1 BlockQuote
 ----------------------------------------
 > This is a first blockqute.
 >	> This is a second blockqute.
