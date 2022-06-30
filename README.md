@@ -177,6 +177,11 @@ You can also use words, to fit your writing style more closely[^note].
 | `absolute` | 위치 상 부모(조상)요소를 기준으로 배치 | |
 | `fixed` | 브라우저 창을 기준으로 배치 | |
 
+Markdown | Less | Pretty
+--- | --- | ---
+*Still* | `renders` | **nicely**
+1 | 2 | 3
+
 # 2022_Summer_School
 ## Github 원격지 저장 활용 시험
 ### Github 원격지 저장 활용 시험
