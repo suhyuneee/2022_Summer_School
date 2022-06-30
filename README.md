@@ -101,7 +101,14 @@ return <div>Foo</div>;
 export default MyComponent;
 ```
 
+5. Draw Line
+---------------------------------
 
+* * *
+
+-------
+
+*************
 
 
 # 2022_Summer_School
