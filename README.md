@@ -110,6 +110,27 @@ export default MyComponent;
 
 *************
 
+6. Link
+-----------------------------------
+* 참조 링크
+// example
+GoogleLink: [google][googlelink]
+
+[googlelink]: https://google.co.uk "Let's Go Google"
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 # 2022_Summer_School
 ## Github 원격지 저장 활용 시험
