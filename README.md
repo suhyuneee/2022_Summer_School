@@ -54,8 +54,52 @@
 	세계에서 7번째 우주 강국
 누리호 성공 축하!!!! 
 
+## 4.2 <pre><code> {code} </code></pre> 이용방법
 
+<pre>
+<code>
+class Car {
+	private String modelName;
+	private int modelYear;
+	private String color;
+	private int maxSpeed;
+	private int currentSpeed;
 
+	Car(String modelName, int modelYear, String color, int maxSpeed) {
+		this.modelName = modelName;
+		this.modelYear = modelYear;
+		this.color = color;
+		this.maxSpeed = maxSpeed;
+			this.currentSpeed = 0;
+}
+}
+</code>
+</pre>
+
+## 4.3 “ ‘ ‘ ‘ “ 이용방법
+
+```
+import React from 'react';
+function MyComponent(props) {
+	if (props.isBar) {
+		return <div>Bar</div>;
+}
+	return <div>Foo</div>;
+}
+export default MyComponent;
+```
+## 4.4 코드블럭 시작점(" ''' ")에 사용하는 언어를 선언하여 문법 강조 가능
+
+``` js
+import React from 'react';
+function MyComponent(props) {
+if (props.isBar) {
+return <div>Bar</div>;
+}
+return <div>Foo</div>;
+}
+export default MyComponent;
+```
 
 
 
