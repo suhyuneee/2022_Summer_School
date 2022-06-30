@@ -9,11 +9,26 @@
 ##### 1.5 선형회귀
 ###### 1.6 Github
 
-2.1 BlockQuote
+2. BlockQuote
 ----------------------------------------
 > This is a first blockqute.
 >	> This is a second blockqute.
 >	>	> This is a third blockqute.
+
+3. List
+------------------------------------------------
+순서가 있는 목록
+
+숫자와 점을 사용
+
+1. 첫번째 목록
+	-순서가 없는 목록
+	-순서가 없는 목록
+1. 두번째 목록
+1. 세번째 목록
+
+
+
 
 
 # 2022_Summer_School
