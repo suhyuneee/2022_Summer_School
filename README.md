@@ -140,6 +140,11 @@ GoogleLink: [google][googlelink]
 
 <strike>취소선</strike>은 <s>stike</s> 또는 <del>del</del>를 사용하세요. 
 
+8. Image
+--------------------------------------
+// examle 1
+
+![절교해요](절교해요.jpg "절교해요짤")
 
 
 
