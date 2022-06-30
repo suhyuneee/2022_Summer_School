@@ -54,7 +54,7 @@
 	세계에서 7번째 우주 강국
 누리호 성공 축하!!!! 
 
-## 4.2 <pre><code> {code} </code></pre> 이용방법
+## 4.2<pre><code> {code} </code></pre> 이용방법
 
 <pre>
 <code>
