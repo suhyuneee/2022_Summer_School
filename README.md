@@ -122,9 +122,9 @@ GoogleLink: [google][googlelink]
 * 외부링크
 // example
 
-[Google Site](https://google.co.uk "Let's Go Google“)
+[Google Site] (https://google.co.uk "Let's Go Google“)
 
-[Naver Site](https://naver.com "Let's Go Naver“)
+[Naver Site] (https://naver.com "Let's Go Naver“)
 
 
 
