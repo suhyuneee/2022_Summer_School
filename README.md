@@ -29,14 +29,14 @@
 
 [순서가 없는 목록]
 * Blue
- * Green
-  * Red
+	* Green
+		* Red
 + Blue
- + Green
-  + Red
+	+ Green
+		+ Red
 - Blue
- - Green
-  - Red
+	- Green
+		- Red
 
 
 # 2022_Summer_School
